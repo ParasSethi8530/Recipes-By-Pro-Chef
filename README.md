@@ -1,10 +1,10 @@
-##🍽️ Recipes by Pro Chef
+## 🍽️ Recipes by Pro Chef
 
-##📌 Project Overview
+## 📌 Project Overview
 
 Recipes by Pro Chef is a WordPress-based blogging website designed to share delicious recipes with users. This project was originally built using a paid template, but I have recreated it for free using various plugins and customization techniques. The website features multiple recipe categories, a sidebar, and a contact page with a login-based form.
 
-🛠️ Technologies & Tools Used
+## 🛠️ Technologies & Tools Used
 
 Page Builder: Elementor (Free Version)
 
@@ -26,7 +26,7 @@ Plugins Used:
 
 Theme Used: Halo Elementor (Paid Template - $14.99, Recreated for Free)
 
-🌍 Website Structure
+## 🌍 Website Structure
 
 The website consists of the following pages:
 
@@ -40,6 +40,6 @@ The website consists of the following pages:
 
 📩 Contact Page – Includes a contact form with a login option
 
-🎥 Website Demo Video
+## 🎥 Website Demo Video
 
-To showcase the project, a demo video has been uploaded to GitHub. You can view it in the /video folder.
+To showcase the project, a demo video has been uploaded below
