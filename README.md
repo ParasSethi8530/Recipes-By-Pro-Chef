@@ -1,6 +1,6 @@
-🍽️ Recipes by Pro Chef
+##🍽️ Recipes by Pro Chef
 
-📌 Project Overview
+##📌 Project Overview
 
 Recipes by Pro Chef is a WordPress-based blogging website designed to share delicious recipes with users. This project was originally built using a paid template, but I have recreated it for free using various plugins and customization techniques. The website features multiple recipe categories, a sidebar, and a contact page with a login-based form.
 
