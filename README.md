@@ -43,4 +43,4 @@ The website consists of the following pages:
 ## 🎥 Website Demo Video
 
 To showcase the project, a demo video has been uploaded below
-https://vimeo.com/1071513885?ts=0&share=copy
+(https://vimeo.com/1071513885?share=copy)
